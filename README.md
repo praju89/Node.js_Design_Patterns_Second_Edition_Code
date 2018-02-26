@@ -15,8 +15,7 @@ The book kicks off by exploring the basics of Node.js describing its asynchronou
 # Key Features of Node.js  Design Patterns
 
 - Create reusable patterns and modules by leveraging the new features of Node.js 
--	Understand the asynchronous single thread design of node and grasp all its features and patterns to take advantage of various    
-  functions
+-	Understand the asynchronous single thread design of node and grasp all its features and patterns to take advantage of various   functions
 -	This unique guide will help you get the most out of Node.js and its ecosystem
 
 # Who is this book for?
